@@ -1,0 +1,10 @@
+# Análisis de Tráfico de Red con Wireshark
+
+Este directorio contiene capturas, analisis y funcionalidades aplicados en Wireshark al momento de visualizar el trafico de red. 
+
+## Contenido
+- Capturas `.pcap` analizadas
+- Informes de tráfico y hallazgos
+- Funciones y tecnicas aplicados en wireshark
+- Pruebas de laboratorio y ejemplos reales
+
